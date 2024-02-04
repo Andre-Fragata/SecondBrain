@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "18c31845c1ab74b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "939ff4d99e3d01f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0409e2650574c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development Environment/Config Git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4971ea13e88a4079",
+    "type": "split",
+    "children": [
+      {
+        "id": "b277c0c3922b51a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0a7f814a76727e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f7c7e06ac2e2af4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a3ce6914232d6de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e2ad6a92fb3a71a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdcbece992b4be31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9f7d416973cb80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development Environment/Config Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "500e0a9fa79d1e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development Environment/Config Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "569d5cfd52087d21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97af3fd7635bc71c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development Environment/Config Git.md"
+              }
+            }
+          },
+          {
+            "id": "1ece2a8a1d9fc4e2",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "c0409e2650574c72",
+  "lastOpenFiles": [
+    "Ruby/Basic Data Types.md",
+    "Ruby/Variables.md",
+    "JavaScript/Tipos de Dados.md",
+    "Ruby",
+    "Java + DSA + Interview Preparation Course",
+    "JavaScript/Tabelas de Compatibilidade.md",
+    "JavaScript/Introdução ao JavaScript.md",
+    "Development Environment/Linux.md",
+    "Development Environment/image.png",
+    "Development Environment/Config Git.md",
+    "Books/Teste.md",
+    "Projeto Descontos/Mercado Livre.md",
+    "Projeto Descontos/Aliexpress.md",
+    "Development Environment/PATH Android Studio.md",
+    "Projeto Descontos",
+    "Books",
+    "SecondBrain.md",
+    "SecondBrain",
+    "Untitled.canvas",
+    "JavaScript",
+    "Development Environment/-Development Environment.md",
+    "ReactJS",
+    "Development Environment/Untitled.canvas",
+    "Development Environment",
+    "GitHub/Pasted image 20231203140735.png",
+    "image.png.md",
+    "Pasted image 20231203134504.png",
+    "GitHub"
+  ]
+}
