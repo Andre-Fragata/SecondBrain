@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Environment/Config Git.md",
+                "file": "Ruby/Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Environment/Config Git.md",
+                "file": "Ruby/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Environment/Config Git.md",
+                "file": "Ruby/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development Environment/Config Git.md"
+                "file": "Ruby/Variables.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "c0409e2650574c72",
   "lastOpenFiles": [
+    "Ruby/Input and Output.md",
     "Ruby/Basic Data Types.md",
     "Ruby/Variables.md",
+    "Development Environment/Config Git.md",
     "JavaScript/Tipos de Dados.md",
     "Ruby",
     "Java + DSA + Interview Preparation Course",
@@ -169,7 +171,6 @@
     "JavaScript/Introdução ao JavaScript.md",
     "Development Environment/Linux.md",
     "Development Environment/image.png",
-    "Development Environment/Config Git.md",
     "Books/Teste.md",
     "Projeto Descontos/Mercado Livre.md",
     "Projeto Descontos/Aliexpress.md",
