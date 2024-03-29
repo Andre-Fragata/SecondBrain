@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruby/Variables.md",
+                "file": "Development Environment/PATH Android Studio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Variables.md",
+                "file": "Development Environment/PATH Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruby/Variables.md",
+                "file": "Development Environment/PATH Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruby/Variables.md"
+                "file": "Development Environment/PATH Android Studio.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "c0409e2650574c72",
   "lastOpenFiles": [
+    "Ruby/Variables.md",
     "Ruby/Input and Output.md",
     "Ruby/Basic Data Types.md",
-    "Ruby/Variables.md",
     "Development Environment/Config Git.md",
     "JavaScript/Tipos de Dados.md",
     "Ruby",
