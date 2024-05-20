@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Environment/PATH Android Studio.md",
+                "file": "4Linux/Dicas LPI/Dicas Prova LPI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Environment/PATH Android Studio.md",
+                "file": "4Linux/Dicas LPI/Dicas Prova LPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Environment/PATH Android Studio.md",
+                "file": "4Linux/Dicas LPI/Dicas Prova LPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development Environment/PATH Android Studio.md"
+                "file": "4Linux/Dicas LPI/Dicas Prova LPI.md"
               }
             }
           },
@@ -148,46 +148,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "c0409e2650574c72",
   "lastOpenFiles": [
+    "Development Environment/Pasted image 20240519212657.png",
+    "Development Environment/Pasted image 20240519212307.png",
+    "4Linux/Linux Fundamentals/Linux Fundamentals.md",
+    "4Linux/Dicas LPI/Dicas Prova LPI.md",
+    "4Linux/Linux Fundamentals",
+    "Development Environment/Fedora/Arduino-cli.md",
+    "4Linux/Dicas LPI",
+    "4Linux/Aula 2/Terminais Virtuais.md",
+    "4Linux/Aula 2",
+    "Books/Teste.md",
+    "Development Environment/Fedora",
+    "Development Environment/image.png",
+    "4Linux",
+    "Java",
+    "Development Environment/Linux.md",
+    "Development Environment/Config Git.md",
+    "Development Environment/PATH Android Studio.md",
     "Ruby/Variables.md",
     "Ruby/Input and Output.md",
     "Ruby/Basic Data Types.md",
-    "Development Environment/Config Git.md",
     "JavaScript/Tipos de Dados.md",
     "Ruby",
     "Java + DSA + Interview Preparation Course",
     "JavaScript/Tabelas de Compatibilidade.md",
     "JavaScript/Introdução ao JavaScript.md",
-    "Development Environment/Linux.md",
-    "Development Environment/image.png",
-    "Books/Teste.md",
     "Projeto Descontos/Mercado Livre.md",
     "Projeto Descontos/Aliexpress.md",
-    "Development Environment/PATH Android Studio.md",
     "Projeto Descontos",
     "Books",
     "SecondBrain.md",
-    "SecondBrain",
     "Untitled.canvas",
-    "JavaScript",
     "Development Environment/-Development Environment.md",
-    "ReactJS",
     "Development Environment/Untitled.canvas",
-    "Development Environment",
     "GitHub/Pasted image 20231203140735.png",
     "image.png.md",
-    "Pasted image 20231203134504.png",
-    "GitHub"
+    "Pasted image 20231203134504.png"
   ]
 }
